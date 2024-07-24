@@ -1,5 +1,5 @@
 # WordPress-Site-on-Aws-for-DigitalBoost
-A small to medium-sized digital marketing agency, "DigitalBoost", wants to enhance its online presence by creating a high-performance WordPress-based website for their clients. The agency needs a scalable, secure, and cost-effective solution that can handle increasing traffic and seamlessly integrate with their existing infrastructure. 
+A small to a medium-sized digital marketing agency, "DigitalBoost", wants to enhance its online presence by creating a high-performance WordPress-based website for their clients. The agency needs a scalable, secure, and cost-effective solution that can handle increasing traffic and seamlessly integrate with their existing infrastructure. 
 
 # Task
 As an AWS Solutions Architect, my task is to design and implement a WordPress solution using various AWS services, such as Networking, Compute, Object Storage, and Databases.
@@ -273,7 +273,7 @@ This setup ensures that your EC2 instance is launched and accessible for further
 
    - The `yum update -y` command will download and install the latest updates for all installed packages. This process may take a few minutes. 
 
-![See link for the rest of the command for this project](https://github.com/Fumnanya92/Darey.io_Projects/blob/main/WordPress%20Site%20on%20Aws%20for%20DigitalBoost/Scripts.md)
+![See link for the rest of the command for this project](https://github.com/Fumnanya92/WordPress-Site-on-Aws-for-DigitalBoost/blob/main/Script.md)
 
 # Create an EFS File System
 
@@ -386,7 +386,7 @@ This setup ensures that your EC2 instance has Apache HTTP Server installed and r
    - Review your settings and click "Create database".
 
 ## Install MySQL 5.7 and Connect to an RDS Database
-![See link for MySQL command for this project](https://github.com/Fumnanya92/Darey.io_Projects/blob/main/WordPress%20Site%20on%20Aws%20for%20DigitalBoost/Scripts.md)
+![See link for MySQL command for this project](https://github.com/Fumnanya92/WordPress-Site-on-Aws-for-DigitalBoost/blob/main/Script.md)
 
 ## Step 1: SSH into the EC2 Instance
 
