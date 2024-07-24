@@ -273,7 +273,7 @@ This setup ensures that your EC2 instance is launched and accessible for further
 
    - The `yum update -y` command will download and install the latest updates for all installed packages. This process may take a few minutes. 
 
-![See link for the rest of the command for this project](https://github.com/Fumnanya92/WordPress-Site-on-Aws-for-DigitalBoost/blob/main/Script.md)
+[See link for the rest of the command for this project](https://github.com/Fumnanya92/WordPress-Site-on-Aws-for-DigitalBoost/blob/main/Script.md)
 
 # Create an EFS File System
 
