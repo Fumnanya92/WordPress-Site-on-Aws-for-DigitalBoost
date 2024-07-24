@@ -64,4 +64,3 @@ nano /var/www/html/wp-config.php
 ```bash
 service httpd restart
 ```
-```
